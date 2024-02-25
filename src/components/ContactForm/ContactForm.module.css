@@ -1,10 +1,12 @@
 .form {
-  display: flex;
-  flex-direction: column;
   gap: 4px;
 }
 
 .field {
-  font: inherit;
   padding: 4px;
+}
+
+.formNewContact {
+  display: flex;
+  flex-direction: row;
 }
